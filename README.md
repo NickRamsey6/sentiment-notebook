@@ -4,6 +4,6 @@ Python code for performing sentiment analysis on a file of text responses. Used 
 
 ## Example results
 ![Alt text](/assets/modelcomparisons.png)
-![Alt text](assets\sentimentbystar.png)
-![Alt text](assets\scorebystar.png)
-![Alt text](assets\revsbystar.png)
+![Alt text](/assets/sentimentbystar.png)
+![Alt text](/assets/scorebystar.png)
+![Alt text](/assets/revsbystar.png)
